@@ -4,3 +4,4 @@ requests
 futures==2
 bs4 
 mechanize
+brotli
